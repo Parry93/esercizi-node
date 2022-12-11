@@ -1,3 +1,3 @@
-import output from './output.mjs';
+import { output } from './output.mjs';
 
 console.log(output)
